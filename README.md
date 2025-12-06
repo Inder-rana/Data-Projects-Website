@@ -14,7 +14,7 @@
 *	I have collected and scraped data using API, Python (Beautiful Soup and Selenium), and APify from Seek, LinkedIn, and Adzuna.
 *	With LinkedIn, I scrape the data about how many people applied for each role, who posted the job ad, their name, and their LinkedIn profile.
 
-![](/images/Job market screenshot.PNG)
+![](/images/Job project screenshot.PNG)
 
 ## [Project: P&L from scratch](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
 ### [Excel | Charts | 2023]
