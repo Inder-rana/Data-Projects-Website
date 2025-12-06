@@ -44,7 +44,7 @@
 ![](/images/image_gender_gap_dashboard_small.PNG)
 
 
-## [Project: Sales Insights for AtliQ hardware]
+## [Project: Sales Insights](https://github.com/Inder-rana/Data_projects/tree/main/Sales%20Insights)
 ### [Excel | Power BI | Tableau | SQL | 2023]  
 
 *	Build a Tableau and Power BI dashboard to understand the sales trend of a hardware company, allowing users to make informed decisions.
