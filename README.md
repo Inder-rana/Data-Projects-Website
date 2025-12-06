@@ -1,5 +1,5 @@
 
-## [Project: Automated ETL data Pipeline](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
+## [Project: Automated ETL data Pipeline]
 ### [Python | SQL | AWS | Power BI | 2025]
 * Build an end-to-end data pipeline using Python, SQL, and AWS cloud services. Transforming data from OLTP to an OLAP system, migrating data from the local machine to AWS cloud storage. Cleaning, processing, migrating, and automating this process using Python.
 *	Cloud services used: S3 for data lake, Redshift for data warehousing, AWS Athena for quick Ad-hoc analysis, AWS Lambda for running python scripts, AWS Glue for data transformation, added trigger in S3 bucket whenever a new raw file is dropped in the folder, AWS Lamnda get triggered runs a python script which clean and preprocessed the file and drop into the process folder, then that processed file can be accessed via Redshift warehouse.
@@ -8,7 +8,7 @@
 
 ![](/images/AWS screenshot.PNG)
 
-## [Project: Melbourne Job Market Analysis ](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
+## [Project: Melbourne Job Market Analysis ]
 ### [Python | Excel | 2025]
 *	Created an analysis in Excel that shows where the job market demand is and which companies are hiring the most and for what roles.
 *	I have collected and scraped data using API, Python (Beautiful Soup and Selenium), and APify from Seek, LinkedIn, and Adzuna.
@@ -44,7 +44,7 @@
 ![](/images/image_gender_gap_dashboard_small.PNG)
 
 
-## [Project: Sales Insights for AtliQ hardware](https://github.com/Inder-rana/Project_portfolio/tree/main/Sales_insights)
+## [Project: Sales Insights for AtliQ hardware]
 ### [Excel | Power BI | Tableau | SQL | 2023]  
 
 *	Build a Tableau and Power BI dashboard to understand the sales trend of a hardware company, allowing users to make informed decisions.
