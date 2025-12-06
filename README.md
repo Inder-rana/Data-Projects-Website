@@ -1,8 +1,3 @@
-## [Project: Melbourne Job Market Analysis ](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
-### [Python | Excel | 2025]
-*	Created an analysis in Excel that shows where the job market demand is and which companies are hiring the most and for what roles.
-*	I have collected and scraped data using API, Python (Beautiful Soup and Selenium), and APify from Seek, LinkedIn, and Adzuna.
-*	With LinkedIn, I scrape the data about how many people applied for each role, who posted the job ad, their name, and their LinkedIn profile.
 
 ## [Project: Automated ETL data Pipeline](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
 ### [Python | SQL | AWS | Power BI | 2025]
@@ -11,12 +6,21 @@
 *	Then the Redshift warehouse can be connected to Power BI for data visualization and a dashboard.
 *	This entire process can be fully automated whenever a new raw file is dropped, all the way from data migration, data cleaning/processing, ETL, data warehousing, and Data Visualization. 
 
+![](/images/AWS screenshot.PNG)
+
+## [Project: Melbourne Job Market Analysis ](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
+### [Python | Excel | 2025]
+*	Created an analysis in Excel that shows where the job market demand is and which companies are hiring the most and for what roles.
+*	I have collected and scraped data using API, Python (Beautiful Soup and Selenium), and APify from Seek, LinkedIn, and Adzuna.
+*	With LinkedIn, I scrape the data about how many people applied for each role, who posted the job ad, their name, and their LinkedIn profile.
+
+![](/images/Job market screenshot.PNG)
+
 ## [Project: P&L from scratch](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
 ### [Excel | Charts | 2023]
 *	Created a Profit & Loss statement in Excel to help business stakeholders understand their organization’s financial health, based on the data insights they can make informed financial decisions.
 *	This project could help organization decrease their unnecessary expenses by 10%
 *	I have utilized the P&L Extractions from FY2016, 2017, and 2018. The Extractions have around 335 data records, did some data cleaning and got rid of some null values, and created a mapping column for easier analysis by categorizing common P&L items.
-
 
 ![PL](/images/image_P&L_small.PNG)
 
