@@ -1,10 +1,11 @@
 
 ## [Project: Automated ETL data Pipeline]
 ### [Python | SQL | AWS | Power BI | 2025]
-* Build an end-to-end data pipeline using Python, SQL, and AWS cloud services. Transforming data from OLTP to an OLAP system, migrating data from the local machine to AWS cloud storage. Cleaning, processing, migrating, and automating this process using Python.
-*	Cloud services used: S3 for data lake, Redshift for data warehousing, AWS Athena for quick Ad-hoc analysis, AWS Lambda for running python scripts, AWS Glue for data transformation, added trigger in S3 bucket whenever a new raw file is dropped in the folder, AWS Lamnda get triggered runs a python script which clean and preprocessed the file and drop into the process folder, then that processed file can be accessed via Redshift warehouse.
-*	Then the Redshift warehouse can be connected to Power BI for data visualization and a dashboard.
-*	This entire process can be fully automated whenever a new raw file is dropped, all the way from data migration, data cleaning/processing, ETL, data warehousing, and Data Visualization. 
+* Designed and implemented an **end-to-end automated ETL pipeline** to move data from an OLTP source into an OLAP environment for analytics.
+* Built a cloud-based architecture using **AWS S3 (data lake), Glue (transformation), Lambda (automation), and Redshift (data warehouse)**.
+* Automated data ingestion, cleaning, and transformation triggered by new file uploads.
+* Enabled ad-hoc querying via Athena and downstream **Power BI dashboards** for reporting.
+* Demonstrated scalable, production-style data workflows and automation principles.
 
 ![](/images/AWS screenshot.PNG)
 
