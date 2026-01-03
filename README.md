@@ -11,46 +11,51 @@
 
 ## [Project: Melbourne Job Market Analysis ]
 ### [Python | Excel | 2025]
-*	Created an analysis in Excel that shows where the job market demand is and which companies are hiring the most and for what roles.
-*	I have collected and scraped data using API, Python (Beautiful Soup and Selenium), and APify from Seek, LinkedIn, and Adzuna.
-*	With LinkedIn, I scrape the data about how many people applied for each role, who posted the job ad, their name, and their LinkedIn profile.
+* Analysed Melbourne job market trends to identify **role demand, hiring companies, and skill requirements**.
+* Collected job posting data from multiple sources using **Python, APIs, and web scraping tools**.
+* Cleaned and consolidated datasets to identify high-demand roles and employer activity.
+* Produced summary insights to support **career and workforce planning decisions**.
 
 ![](/images/Job project screenshot.PNG)
 
-## [Project: P&L from scratch](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
-### [Excel | Charts | 2023]
-*	Created a Profit & Loss statement in Excel to help business stakeholders understand their organization’s financial health, based on the data insights they can make informed financial decisions.
-*	This project could help organization decrease their unnecessary expenses by 10%
-*	I have utilized the P&L Extractions from FY2016, 2017, and 2018. The Extractions have around 335 data records, did some data cleaning and got rid of some null values, and created a mapping column for easier analysis by categorizing common P&L items.
+## [Project: Profit & Loss Analysis](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
+### [Excel | Profit & Loss Analysis | 2023]
+* Built a structured **P&L statement** from raw financial extracts spanning multiple financial years.
+* Cleaned and categorised financial data to enable clearer expense and revenue analysis.
+* Created mappings to group common P&L items for easier interpretation by stakeholders.
+* Demonstrated how financial data can support **cost control and budgeting discussions**.
 
 ![PL](/images/image_P&L_small.PNG)
 
-## [Project: Real Estate Insights (Statistics)](https://github.com/Inder-rana/Guided_projects/tree/main/Statistics_real_estate)
+## [Project: Real Estate Statistical Analysis](https://github.com/Inder-rana/Guided_projects/tree/main/Statistics_real_estate)
 ### [Excel | Statistics | 2023]
-*	Performed statistical analysis on the real estate data that can help run a successful marketing campaign.
-*	Statistical insights from this project could save 15% of the company's resources, save 20% of the time and effort used by the marketing team, and increase the marketing results by 30%.
-*	This project has 272 data records with 24 variable columns. I have created frequency distribution tables, Pareto diagrams, histograms, pie charts, and scatter plots.
+* Performed exploratory and statistical analysis on real estate datasets to identify **pricing and demand patterns**.
+* Applied frequency distributions, Pareto analysis, and correlation techniques.
+* Created visual summaries to support **marketing and targeting strategy discussions**.
+* Demonstrated practical use of statistics for business decision-making.
 
 
 ![](/images/image_location_small.PNG)
 
-## [Project: Gender Gap insights](https://github.com/Inder-rana/Guided_projects/tree/main/Gender_gap_SQL_Tableau)
-### [Excel | SQL | Tableau | 2023]
+## [Project: Workforce Gender Gap Analysis](https://github.com/Inder-rana/Guided_projects/tree/main/Gender_gap_SQL_Tableau)
+### [ SQL | Excel | Tableau | 2023]
 
-*	Created a Tableau Dashboard to show the breakdown of male and female employees in various departments, to promote equal opportunities for everyone.
-*	This project could help improve gender gap policies in the organization and increase women’s employment in the local area by 7%.
-*	This project has various tables, totaling around 1.3 million data records, and I did some SQL querying in the employee database to identify the relevant records to the analysis. 
+* Analysed workforce data (~1.3M records) to assess **gender representation across departments**.
+* Used SQL to extract and filter relevant employee data for analysis.
+* Built a Tableau dashboard to visualise disparities and trends.
+* Demonstrated how data can support **HR and diversity reporting initiatives**.
 
 
 ![](/images/image_gender_gap_dashboard_small.PNG)
 
 
-## [Project: Sales Insights](https://github.com/Inder-rana/Data_projects/tree/main/Sales%20Insights)
-### [Excel | Power BI | Tableau | SQL | 2023]  
+## [Project: Sales Performance Dashboard](https://github.com/Inder-rana/Data_projects/tree/main/Sales%20Insights)
+### [SQL | Power BI | Tableau | Excel | 2023]  
 
-*	Build a Tableau and Power BI dashboard to understand the sales trend of a hardware company, allowing users to make informed decisions.
-*	This project could help the company increase its revenue by 7% in the next quarter.
-*	This project has various tables; the transaction table has around 150k data records, and I did some data extraction using SQL queries to find the relevant records, and later did some data cleaning, data modeling, and ETL process in Power BI.
+* Analysed sales transaction data (~150k records) to identify **trends and performance drivers**.
+* Performed data extraction and cleaning using SQL and Excel.
+* Built interactive dashboards in Power BI and Tableau to track KPIs.
+* Enabled stakeholders to explore trends and support **sales planning decisions**.
 
 
 ![](/images/BI_snapshot_small.PNG)
