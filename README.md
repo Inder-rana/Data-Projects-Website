@@ -19,7 +19,7 @@
 ![](/images/Job project screenshot.PNG)
 
 ## [Project: Profit & Loss Analysis](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
-### [Excel | Profit & Loss Analysis | 2023]
+### [Excel | Financial Analysis | 2023]
 * Built a structured **P&L statement** from raw financial extracts spanning multiple financial years.
 * Cleaned and categorised financial data to enable clearer expense and revenue analysis.
 * Created mappings to group common P&L items for easier interpretation by stakeholders.
